@@ -1,0 +1,40 @@
+{
+    "Routes": [
+        {
+            "DownstreamPathTemplate": "/api/v1/{everything}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5296
+                }
+            ],
+            "UpstreamPathTemplate": "/api/estoque/{everything}",
+            "UpstreamHttpMethod": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+            ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/v1/{everything}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5229
+                }
+            ],
+            "UpstreamPathTemplate": "/api/vendas/{everything}",
+            "UpstreamHttpMethod": [
+                "GET",
+                "POST"
+            ]
+        }
+    ],
+    "GlobalConfiguration": {
+        "BaseUrl": "http://localhost:5000"
+    }
+}

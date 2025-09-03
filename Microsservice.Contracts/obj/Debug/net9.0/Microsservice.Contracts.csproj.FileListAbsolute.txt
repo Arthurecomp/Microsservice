@@ -1,0 +1,11 @@
+C:\Users\Arthur Marcelino\Desktop\Microsservice\Microsservice.Contracts\bin\Debug\net9.0\Microsservice.Contracts.deps.json
+C:\Users\Arthur Marcelino\Desktop\Microsservice\Microsservice.Contracts\bin\Debug\net9.0\Microsservice.Contracts.dll
+C:\Users\Arthur Marcelino\Desktop\Microsservice\Microsservice.Contracts\bin\Debug\net9.0\Microsservice.Contracts.pdb
+C:\Users\Arthur Marcelino\Desktop\Microsservice\Microsservice.Contracts\obj\Debug\net9.0\Microsservice.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur Marcelino\Desktop\Microsservice\Microsservice.Contracts\obj\Debug\net9.0\Microsservice.Contracts.AssemblyInfoInputs.cache
+C:\Users\Arthur Marcelino\Desktop\Microsservice\Microsservice.Contracts\obj\Debug\net9.0\Microsservice.Contracts.AssemblyInfo.cs
+C:\Users\Arthur Marcelino\Desktop\Microsservice\Microsservice.Contracts\obj\Debug\net9.0\Microsservice.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Marcelino\Desktop\Microsservice\Microsservice.Contracts\obj\Debug\net9.0\Microsservice.Contracts.dll
+C:\Users\Arthur Marcelino\Desktop\Microsservice\Microsservice.Contracts\obj\Debug\net9.0\refint\Microsservice.Contracts.dll
+C:\Users\Arthur Marcelino\Desktop\Microsservice\Microsservice.Contracts\obj\Debug\net9.0\Microsservice.Contracts.pdb
+C:\Users\Arthur Marcelino\Desktop\Microsservice\Microsservice.Contracts\obj\Debug\net9.0\ref\Microsservice.Contracts.dll
