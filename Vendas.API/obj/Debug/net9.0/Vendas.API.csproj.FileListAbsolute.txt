@@ -176,3 +176,4 @@ C:\Users\Arthur Marcelino\Desktop\Microsservice\Vendas.API\bin\Debug\net9.0\Rabb
 C:\Users\Arthur Marcelino\Desktop\Microsservice\Vendas.API\bin\Debug\net9.0\Microsservice.Contracts.dll
 C:\Users\Arthur Marcelino\Desktop\Microsservice\Vendas.API\bin\Debug\net9.0\Microsservice.Contracts.pdb
 C:\Users\Arthur Marcelino\Desktop\Microsservice\vendas.api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Arthur Marcelino\Desktop\Microsservice\vendas.api\obj\Debug\net9.0\Vendas.API.sourcelink.json

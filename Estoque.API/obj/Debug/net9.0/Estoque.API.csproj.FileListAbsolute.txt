@@ -174,3 +174,4 @@ C:\Users\Arthur Marcelino\Desktop\Microsservice\estoque.api\bin\Debug\net9.0\New
 C:\Users\Arthur Marcelino\Desktop\Microsservice\Estoque.API\bin\Debug\net9.0\Microsservice.Contracts.dll
 C:\Users\Arthur Marcelino\Desktop\Microsservice\Estoque.API\bin\Debug\net9.0\Microsservice.Contracts.pdb
 C:\Users\Arthur Marcelino\Desktop\Microsservice\estoque.api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Arthur Marcelino\Desktop\Microsservice\estoque.api\obj\Debug\net9.0\Estoque.API.sourcelink.json

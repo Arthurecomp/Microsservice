@@ -1,3 +1,4 @@
+using System.Net.Http.Headers;
 using MassTransit;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -39,6 +40,14 @@ namespace Vendas.API.Controllers
         {
             var newOrder = new Order { OrderDate = System.DateTime.UtcNow };
             var httpClient = _httpClientFactory.CreateClient();
+
+
+            var token = HttpContext.Request.Headers["Authorization"].FirstOrDefault()?.Split(" ").Last();
+            if (token == null)
+            {
+                return Unauthorized("Token de autorização ausente.");
+            }
+            httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
             //lógica para validar em estoque
             foreach (var itemDto in orderDto.OrderItems)

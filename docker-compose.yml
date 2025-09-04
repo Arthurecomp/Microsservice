@@ -1,16 +1,29 @@
-# No seu docker-compose.yml
+version: '3.8'
+
 services:
+ 
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq
+    ports:
+      
+      - "5672:5672"
+      
+      - "15672:15672"
+
+  # Serviço do Banco de Dados SQL Server
   sqlserver:
     image: mcr.microsoft.com/mssql/server:2022-latest
     container_name: sqlserver
     environment:
       - ACCEPT_EULA=Y
       - SA_PASSWORD=Desafio@123
-    ports:
+    ports:      
       - "1433:1433"
     volumes:
-      - sqlserver_data:/var/opt/mssql # Adicione esta linha
+      - sqlserver_data:/var/opt/mssql
 
-# Adicione esta seção no final do arquivo
 volumes:
   sqlserver_data:
+
+

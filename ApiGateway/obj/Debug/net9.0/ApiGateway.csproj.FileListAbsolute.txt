@@ -39,3 +39,4 @@ C:\Users\Arthur Marcelino\Desktop\Microsservice\apigateway\obj\Debug\net9.0\refi
 C:\Users\Arthur Marcelino\Desktop\Microsservice\apigateway\obj\Debug\net9.0\ApiGateway.pdb
 C:\Users\Arthur Marcelino\Desktop\Microsservice\apigateway\obj\Debug\net9.0\ApiGateway.genruntimeconfig.cache
 C:\Users\Arthur Marcelino\Desktop\Microsservice\apigateway\obj\Debug\net9.0\ref\ApiGateway.dll
+C:\Users\Arthur Marcelino\Desktop\Microsservice\apigateway\obj\Debug\net9.0\ApiGateway.sourcelink.json
